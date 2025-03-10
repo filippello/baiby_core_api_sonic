@@ -1,0 +1,1 @@
+{"version":4,"id":"","kind":"mnemonic","crypto":{"ciphertext":"","cipherparams":{"iv":""},"cipher":"aes-128-ctr","kdf":"scrypt","kdfparams":{"dklen":32,"salt":"","n":4096,"r":8,"p":1},"mac":""}}
